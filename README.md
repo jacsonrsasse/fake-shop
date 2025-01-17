@@ -1,5 +1,10 @@
 # Fake Shop
 
+Segundo projeto da semana Desafio DevOps & Cloud, referente aos três últimos dias.
+
+## Imagens no Docker Hub
+
+[Repo fake-shop](https://hub.docker.com/repository/docker/jacsonrsasse96/fake-shop/general)
 
 ## Variável de Ambiente
 DB_HOST	=> Host do banco de dados PostgreSQL.
